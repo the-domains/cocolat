@@ -6,13 +6,13 @@ color:
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
-  brandStrength: 0.10822834018809135
-  lightness: 0.39888541741656014
-  rhythmicContrast: 0.44660240200527246
-  saturation: 0.6744174360411075
+  brandStrength: 0.108228
+  lightness: 0.398885
+  rhythmicContrast: 0.446602
+  saturation: 0.674417
 cta: {}
 layout_spectrum: 0.614865
 name: COCOLAT
 opengraph: {}
 purpose: {}
-typography_spectrum: 0.2529409007590251
+typography_spectrum: 0.422297
